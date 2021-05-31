@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/http//ShahNawaz86.github.io/myapp/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/http//ShahNawaz86.github.io/myapp/static/js/main.6849f9d3.chunk.js",
+    "main.js.map": "/http//ShahNawaz86.github.io/myapp/static/js/main.6849f9d3.chunk.js.map",
+    "runtime-main.js": "/http//ShahNawaz86.github.io/myapp/static/js/runtime-main.4c8f3644.js",
+    "runtime-main.js.map": "/http//ShahNawaz86.github.io/myapp/static/js/runtime-main.4c8f3644.js.map",
+    "static/js/2.7d671bad.chunk.js": "/http//ShahNawaz86.github.io/myapp/static/js/2.7d671bad.chunk.js",
+    "static/js/2.7d671bad.chunk.js.map": "/http//ShahNawaz86.github.io/myapp/static/js/2.7d671bad.chunk.js.map",
+    "static/js/3.8892fafc.chunk.js": "/http//ShahNawaz86.github.io/myapp/static/js/3.8892fafc.chunk.js",
+    "static/js/3.8892fafc.chunk.js.map": "/http//ShahNawaz86.github.io/myapp/static/js/3.8892fafc.chunk.js.map",
+    "index.html": "/http//ShahNawaz86.github.io/myapp/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/http//ShahNawaz86.github.io/myapp/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.7d671bad.chunk.js.LICENSE.txt": "/http//ShahNawaz86.github.io/myapp/static/js/2.7d671bad.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/http//ShahNawaz86.github.io/myapp/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c8f3644.js",
+    "static/js/2.7d671bad.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.6849f9d3.chunk.js"
+  ]
+}
